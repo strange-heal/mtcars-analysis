@@ -1,6 +1,3 @@
-# mtcars-analysis
-Absolutely, MD! Here's a clean and professional README.md template tailored for your Kaggle notebook project on linear regression with the mtcars dataset using R:
-
 # Linear Regression Analysis on mtcars Dataset
 
 This project demonstrates a simple linear regression analysis using R and the built-in `mtcars` dataset. The goal is to explore the relationship between **horsepower (hp)** and **miles per gallon (mpg)**, and visualize the results with a scatter plot and regression line.
